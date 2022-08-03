@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.19.5](https://www.github.com/siebrenf/bioconda-utils/compare/v0.19.4...v0.19.5) (2022-08-03)
+
+
+### Documentation
+
+* remove bot from api docs ([#774](https://www.github.com/siebrenf/bioconda-utils/issues/774)) ([e940def](https://www.github.com/siebrenf/bioconda-utils/commit/e940defb21d8fcf997792c1538e063f7d3b69a49))
+
 ### [0.19.4](https://www.github.com/bioconda/bioconda-utils/compare/v0.19.3...v0.19.4) (2022-04-30)
 
 
